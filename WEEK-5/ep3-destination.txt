@@ -1,0 +1,1 @@
+This text is copied from the source file to the destination file using streams.

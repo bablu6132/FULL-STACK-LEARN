@@ -1,0 +1,3 @@
+Streams are useful for processing large files.
+Instead of loading the complete file into memory, Node.js processes one chunk at a time.
+This sample demonstrates copying data with pipe().
