@@ -1,0 +1,12 @@
+{
+  "name": "ownpackage",
+  "version": "1.0.0",
+  "description": "use to greet the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "PANINDHAR",
+  "license": "ISC"
+}
